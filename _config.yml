@@ -3,7 +3,7 @@ title: 'Sean Wong'
 description: 'Hello there. I am a developer.'
 keywords: 'sean wong'
 url: 'https://derpydm.cf' # your host
-
+exclude: [vendor]
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   Home: '/'
