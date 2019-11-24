@@ -23,7 +23,7 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #['github', 'instagram']
+SNS-icon: #['mail', 'github', 'instagram']
   mail: 'mailto:derpydm@gmail.com'
   github: 'https://github.com/derpydm'
   instagram: 'https://www.instagram.com/derpydm/?hl=en'
