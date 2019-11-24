@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Sean Wong'
-description: 'Hello there. I\'\m a developer.'
+description: 'Hello there. I'm a developer.'
 keywords: 'sean wong'
 url: 'https://derpydm.cf' # your host
 
@@ -17,7 +17,7 @@ author: true
 name: 'Sean Wong'
 NickName: 'derpydm'
 webtitle: 'Sean Wong'
-bio: 'I'm a Singaporean student.'
+bio: 'I am a Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
 about: false
 aboutyou: 'Hello there.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
