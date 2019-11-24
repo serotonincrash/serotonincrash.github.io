@@ -19,7 +19,7 @@ webtitle: 'Sean Wong'
 bio: 'I am a Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
 about: false
 aboutyou: 'Hello there.'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
