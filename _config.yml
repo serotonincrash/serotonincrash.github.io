@@ -6,7 +6,7 @@ url: 'https://derpydm.cf' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  main: '/'
+  Home: '/'
   Tags: '/tags.html'
   Timeline: '/timeline.html'
   About: '/about.html'
@@ -17,7 +17,7 @@ name: 'Sean Wong'
 NickName: 'derpydm'
 webtitle: 'Sean Wong'
 bio: 'I am a Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
-about: true
+about: false
 aboutyou: 'Hello there.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
