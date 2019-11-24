@@ -6,11 +6,10 @@ url: 'https://derpydm.cf' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  首页: '/'
-  标签: '/tags.html'
-  时间线: '/timeline.html'
-  关于博主: '/about.html'
-  友情链接: '/friendLink.html'
+  main: '/'
+  Tags: '/tags.html'
+  Timeline: '/timeline.html'
+  About: '/about.html'
 
 # 博主
 author: true
@@ -18,7 +17,7 @@ name: 'Sean Wong'
 NickName: 'derpydm'
 webtitle: 'Sean Wong'
 bio: 'I am a Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
-about: false
+about: true
 aboutyou: 'Hello there.'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
@@ -50,7 +49,6 @@ pygmentsTheme: 'default'
 
 # 友情链接
 friends:
-  jekyll: 'https://www.jekyll.com'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
