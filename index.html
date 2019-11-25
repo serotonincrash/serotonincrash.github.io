@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hello
-page-title: Sean Wong
+title: Sean Wong
+page-title: Hello
 home-title: Welcome to my website.
 description: You'll find my updates and work on here.
 ---
@@ -28,14 +28,6 @@ description: You'll find my updates and work on here.
             </a>
           {% endfor%}
         {% endif %}
-      </li>
-      <li class="fadeInUp animated">
-      {% if site.tags.size>0 %}
-          {% for tag in site.tags %}
-          <a href="tags.html#{{ tag[0] }}" class="tag">{{ tag[0]}}</a>
-          {% endfor %}
-      {% endif %}
-      </li>
     </ul>
 </main>
 {% include footer.html %}
