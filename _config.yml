@@ -3,7 +3,7 @@ title: 'Sean Wong'
 description: 'Hello there. I am a developer.'
 keywords: 'sean wong'
 url: 'https://derpydm.cf' # your host
-exclude: 
+exclude:
   - [vendor]
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -15,7 +15,7 @@ NickName: 'derpydm'
 webtitle: 'Sean Wong'
 bio: 'Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
 about: true
-aboutyou: 'Born in 2003. Tinkered with computers growing up along with playing Minecraft. Graduated from Tampines North Primary in 2014. Took O Level Computing and took part in the inaugral Swift Innovators\' Summit. I have more experience in Swift and Python, and know a bit of Java.'
+aboutyou: 'Born in 2003. Tinkered with computers growing up along with playing Minecraft. Graduated from Tampines North Primary in 2014. Took O Level Computing and took part in the inaugral Swift Innovators'' Summit. I have more experience in Swift and Python, and know a bit of Java.'
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
