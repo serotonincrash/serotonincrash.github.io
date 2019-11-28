@@ -13,9 +13,9 @@ author: true
 name: 'Sean Wong'
 NickName: 'derpydm'
 webtitle: 'Sean Wong'
-bio: 'Singaporean student. Graduated from Ngee Ann Secondary in 2019.'
+bio: 'Singaporean student/developer.'
 about: true
-aboutyou: 'Born in 2003. Tinkered with computers growing up along with playing Minecraft. Graduated from Tampines North Primary in 2014. Took O Level Computing and took part in the inaugral Swift Innovators'' Summit. I have more experience in Swift and Python, and know a bit of Java.'
+aboutyou: 'Born in 2003. Tinkered with computers growing up along with playing Minecraft. Graduated from Tampines North Primary in 2014. Went to Ngee Ann Secondary, took O Level Computing and presented Fractal at the inaugral Swift Innovators'' Summit. I have more experience in Swift and Python, and know a bit of Java.'
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
