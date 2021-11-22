@@ -1,8 +1,8 @@
 # Site settings 配置站点
 title: 'Sean Wong'
-description: 'Hello there. I am a developer.'
+description: 'Developer, engineer, avid hobbyist.'
 keywords: 'sean wong'
-url: 'https://derpydm.cf' # your host
+url: 'https://serotonincrash.github.io' # your host
 exclude:
   - [vendor]
 # nav 中文字符空格：&emsp;
@@ -11,7 +11,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Sean Wong'
-NickName: 'derpydm'
+NickName: 'serotonincrash'
 webtitle: 'Sean Wong'
 bio: 'singaporean student/developer'
 about: true
@@ -22,13 +22,15 @@ aboutyou: >-
     I presented Fractal at the inaugral Swift Innovators' Summit in 2018.
     Fractal was later published on the App Store.
     I have experience in Swift and Python, and also know a bit of Java.
+    IMDA SG:D Polytechnic Scholarship Class of 2020.
+
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['mail', 'github', 'instagram']
   mail: 'mailto:derpydm@gmail.com'
-  github: 'https://github.com/derpydm'
+  github: 'https://github.com/serotonincrash'
   instagram: 'https://www.instagram.com/derpydm/?hl=en'
 
 
