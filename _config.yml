@@ -19,9 +19,12 @@ aboutyou: >-
     Born in 2003. Tinkered with computers growing up, along with playing Minecraft.
     I graduated from Tampines North Primary in 2014.
     I studied in Ngee Ann Secondary, took O Level Computing, and graduated in 2019.
-    I presented Fractal at the inaugral Swift Innovators' Summit in 2018.
+
+    I made, developed, presented Fractal at the inaugral Swift Innovators' Summit in 2018.
+    
     Fractal was later published on the App Store.
     I have experience in Swift and Python, and also know a bit of Java.
+
     IMDA SG:D Polytechnic Scholarship Class of 2020.
 
 portraits: '/assets/profile.jpg' # your portraits image file path
