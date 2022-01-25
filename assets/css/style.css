@@ -1110,3 +1110,20 @@ a{
 #media{
   display: none;
 }
+
+/* For 'about' page */
+.photoDivider {
+  padding-top:16px;
+  padding-bottom:16px;
+}
+.photoDivider img {
+   display:block;
+   width: 100%;
+   height: 60vh;
+   object-fit: cover;
+   padding-bottom: 16px;
+}
+.photoDivider h3 {
+  display:block;
+  padding-bottom: 16px;
+}

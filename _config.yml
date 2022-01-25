@@ -7,24 +7,18 @@ exclude:
   - [vendor]
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-
+  Home: '/'
+  About: '/about.html'
 # 博主
 author: true
 name: 'Sean Wong'
 NickName: 'serotonincrash'
-webtitle: 'Sean Wong'
+webtitle: 'serotonincrash'
 bio: 'singaporean student/developer'
 about: true
 aboutyou: >-
-    Born in 2003. Tinkered with computers growing up, along with playing Minecraft.
-    I graduated from Tampines North Primary in 2014.
-    I studied in Ngee Ann Secondary, took O Level Computing, and graduated in 2019.
-
-    I made, developed, presented Fractal at the inaugral Swift Innovators' Summit in 2018.
-    
-    Fractal was later published on the App Store.
-    I have experience in Swift and Python, and also know a bit of Java.
-
+    Keyboard nerd, hobbyist, engineer.
+    Currently studying at Temasek Polytechnic in Cybersecurity & Digital Forensics.
     IMDA SG:D Polytechnic Scholarship Class of 2020.
 
 portraits: '/assets/profile.jpg' # your portraits image file path
@@ -34,7 +28,7 @@ SNS: true
 SNS-icon: #['mail', 'github', 'instagram']
   mail: 'mailto:derpydm@gmail.com'
   github: 'https://github.com/serotonincrash'
-  instagram: 'https://www.instagram.com/derpydm/?hl=en'
+  instagram: 'https://www.instagram.com/serotonincrash'
 
 
 
