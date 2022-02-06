@@ -2,7 +2,7 @@
 layout: default
 title: serotonincrash
 page-title: About me
-home-title: Here's a little introdction to myself.
+home-title: Here's some stuff I've done.
 description:
 ---
 
@@ -12,42 +12,17 @@ description:
     <span class="wow fadeInUp" data-wow-delay="0.2s">{{ page.page-title }}</span>
     <span class="wow fadeInUp" data-wow-delay="0.4s">{{ page.home-title }}</span>
 </div>
-    <ul class="ex-list">
-
-        <li class="fadeInUp animated">
-        {% if site.author %}
-          <div class="portraits"><img src="{{ site.portraits }}" alt=""></div>
-          <span id="yourname">{{ site.name }}</span>
-          <span id="yourbio"><em>{{ site.bio }}</em></span>
-          {% if site.about %}
-            <span id="aboutyou" style="text-align:center"><p>Keyboard nerd, hobbyist, engineer.<br>
-              Currently studying at Temasek Polytechnic in Cybersecurity & Digital Forensics.<br>         
-              IMDA SG:D Polytechnic Scholarship Class of 2020.</p></span>
-          {% endif %}
-        {% endif %}
-        {% if site.SNS %}
-          {% for sns-icon in site.SNS-icon %}
-            <a href="{{ sns-icon[1] }}" title="{{ sns-icon[0] }}">
-              <svg class="icon" aria-hidden="true">
-                <use xlink:href="#icon-{{ sns-icon[0] }}"></use>
-              </svg>
-            </a>
-          {% endfor%}
-        {% endif %}
-
-        
-    </ul>
+    
     <ul class="ex-list">
       <li class="fadeInUp animated">
-        <span id="yourname"><b>Some stuff I've done</b></span>
-        <hr class="solid">
+        
         <div class='photoDivider'>
           <h2>Swift Innovators' Summit Alumni</h2>
           <img src='/assets/tim_cook_visit.jpg'>
           
           <span>I made, developed and presented Fractal at the inaugral Swift Innovators' Summit in 2018.
             Fractal was later published on the <a style='text-decoration: underline; color: black;' href="https://apps.apple.com/sg/app/fractal-a-calculator/id1441648055">App Store</a>.<br><br>
-          I also got the opportunity to speak and present to Tim Cook - CEO of Apple Inc. (I'm now one of the few people in the world to have beaten him at whack-a-mole, and <em>maybe</em> the only one to have beaten him in VR whack-a-mole.)<br><br>
+          I also got the opportunity to speak and present to Tim Cook - CEO of Apple Inc. (I'm now one of the few people in the world to have beaten him at whack-a-mole, and <em>maybe</em> the only one to have beaten him in AR whack-a-mole.)<br><br>
 
           Getting to see new batches of earnest students harness the power of app development always warms my heart as an alumni of the Swift Accelerator Programme.
           </span>

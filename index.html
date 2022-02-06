@@ -10,6 +10,34 @@ description:
 <main>
     {% include title.html %}
 
+    <ul class="ex-list">
+
+        <li class="fadeInUp animated">
+        {% if site.author %}
+          <div class="portraits"><img src="{{ site.portraits }}" alt=""></div>
+          <span id="yourname">{{ site.name }}</span>
+          <span id="yourbio"><em>{{ site.bio }}</em></span>
+          {% if site.about %}
+            <span id="aboutyou" style="text-align:center"><p>Keyboard nerd, hobbyist, engineer.<br>
+              Currently studying at Temasek Polytechnic in Cybersecurity & Digital Forensics.<br>         
+              IMDA SG:D Polytechnic Scholarship Class of 2020.</p></span>
+          {% endif %}
+        {% endif %}
+        {% if site.SNS %}
+          {% for sns-icon in site.SNS-icon %}
+            <a href="{{ sns-icon[1] }}" title="{{ sns-icon[0] }}">
+              <svg class="icon" aria-hidden="true">
+                <use xlink:href="#icon-{{ sns-icon[0] }}"></use>
+              </svg>
+            </a>
+          {% endfor%}
+          <a href="https://www.linkedin.com/in/sean-wong-0036221a6/" title="LinkedIn">
+            <img src = "assets/linkedin.svg"  class="icon" aria-hidden="true">
+          </a>
+        {% endif %}
+
+        
+    </ul>
 
 
 </main>
